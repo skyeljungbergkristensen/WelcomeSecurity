@@ -16,7 +16,7 @@ keywords: >
 destination: output
 
 logo:
-  mobile: "images/logo/logo-mobile.webp"
+  mobile: "images/logo/logo mobile.webp"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.webp"
