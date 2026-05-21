@@ -1,5 +1,5 @@
 #baseurl: ''
-baseurl: "https://skyeljungbergkristensen.github.io/WelcomeSecurity/"
+baseurl: "/WelcomeSecurity/"
 permalink: pretty
 title: 'Sustira - ESG og bæredygtighed for virksomheder'
 description: >
