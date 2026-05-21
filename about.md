@@ -1,58 +1,19 @@
 ---
-title: WelcomeSecurity og Sustira
+title: Om mig
 layout: page
-description: "Om WelcomeSecurity – vores mission, principper og ansvar som virksomhed på tværs af sikkerhed og bæredygtighed."
+description: "Om Mie Ljungberg Kristensen"
 bodyClass: page-about
-permalink: "/om-os/"
+permalink: "/om-mig/"
 ---
+Jeg hjælper små og mellemstore virksomheder med at gøre bæredygtighed konkret og styrbart – med fokus på det, der virker i praksis. Jeg arbejder i krydsfeltet mellem **CO₂-data, ESG og cirkulær økonomi**, hvor jeg oversætter krav og kompleksitet til beslutninger, handling og forankring i hverdagen.
 
-WelcomeSecurity er en dansk rådgivningsvirksomhed baseret i smukke Silkeborg, der arbejder med ansvarlig teknologi, sikker software og bæredygtig forretningsudvikling.
+Mit fundament er naturvidenskabeligt: Jeg er kandidat i **fysik og kemi** med specialisering i **materialefysik/-kemi**, og jeg trives med at få data til at give mening – uanset om det handler om klimaberegninger, produktvalg eller dokumentation. Samtidig har jeg en stærk formidlings- og procesprofil fra undervisning og udviklingsforløb, hvilket betyder, at jeg kan få både ledelse og medarbejdere med, så arbejdet ikke bliver et soloprojekt.
 
-Virksomheden omfatter både **WelcomeSecurity** (it- og softwaresikkerhed) og **Sustira** (ESG og bæredygtighed).  
+Jeg har derudover en **ressourcekoordinator-uddannelse**, en **Mini MBA i Sustainability & ESG**, og jeg har suppleret kurser i innovation og AI, så jeg også kan arbejde effektivt med innovation, forandring og smarte datagange.
 
-Fagområderne er forskellige – missionen, værdierne og principperne er de samme.
+Jeg er aktiv i miljø- og cirkulære fagfællesskaber og netværk – bl.a. som bestyrelsesmedlem i **Sustainable Change Makers** (Vest for Storebælt), i **Dansk Erhvervs miljø- og cirkulærøkonomi-netværk** og i **Silkeborg Business Green**. Det giver mig både et stærkt praksisnært udsyn og fingeren på pulsen i forhold til, hvad der rører sig hos virksomheder lige nu.
 
-Vi arbejder tæt sammen med vores kunder, fordi de bedste løsninger skabes i fællesskab og tæt på hverdagen – og fordi det er sådan, vi bedst hjælper vores kunder med at skabe værdi.
 
-Samtidig tror vi på, at ansvarlige beslutninger er en forudsætning for et bedre samfund – både nu og i fremtiden for os alle.
+Min tilgang er enkel: **mål det, der betyder noget – og gør det, der virker.**
 
----
-
-## Vores mission
-
-Vi arbejder for at:
-
-- spille vores kunder gode, så deres løsninger og beslutninger bidrager positivt til samfundet  
-- beskytte mennesker, samfund og fælles værdier  
-- understøtte ansvarlige beslutninger – også når de er svære  
-- bidrage til et bedre og mere ansvarligt samfund, både nu og på lang sigt  
-
-Det betyder også, at vi bevidst fravælger samarbejde, der kan bidrage til uansvarlig adfærd, skade på mennesker, samfund eller fælles værdier.
-
----
-
-## Vores principper
-
-Vi driver vores forretning med høj etisk standard og respekt for grundlæggende menneskerettigheder.
-
-Vi accepterer og tolererer ikke:
-
-- korruption, bestikkelse eller afpresning  
-- børnearbejde, tvangsarbejde, diskrimination, chikane eller nedværdigende adfærd  
-
-Vi bestræber os på at træffe ansvarlige beslutninger – både på lang sigt og i hverdagen.
-
----
-
-## Ansvarlighed i praksis
-
-Ansvarlighed er ikke et særskilt initiativ – det er en del af vores daglige arbejde.
-
-Vi arbejder aktivt for:
-
-- et sundt og bæredygtigt arbejdsmiljø  
-- ansvarlig brug af ressourcer  
-- bevidste valg af leverandører og samarbejdspartnere  
-- sammenhæng mellem forretning, ansvar og samfund  
-
-Hvis du har spørgsmål til vores virksomhed, principper eller ansvarlighed, er du velkommen til at **[kontakte os]({{ '/kontakt/' | relative_url }})**.
+ **[kontakt os]({{ '/kontakt/' | relative_url }})**.

@@ -11,7 +11,7 @@ excerpt: |-
 
   Med baggrund i udvikling og drift hjælper han teams med at bygge sikker software i praksis.
 promoted: true
-weight: 1
+weight: 2
 ---
 
 Jeg hjælper udviklere og udviklingsorganisationer med at bygge **sikker software, der virker i praksis**.

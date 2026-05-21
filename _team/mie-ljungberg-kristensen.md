@@ -4,7 +4,7 @@ image: "images/team/mie.webp"
 email: "mie@sustira.dk"
 jobtitle: "Senior ESG- og bæredygtighedskonsulent"
 linkedinurl: "https://www.linkedin.com/in/mie-ljungberg-kristensen-3361366/"
-weight: 2
+weight: 1
 intro_image: "images/illustrations/thomas-speaking.webp"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
@@ -17,7 +17,7 @@ excerpt: |-
 ---
 
 Mie Ljungberg Kristensen er ansat i WelcomeSecurity og driver vores bæredygtigheds- og ESG-ydelser gennem 
-[**Sustira**](https://sustira.dk){: target="_blank" rel="noopener noreferrer"} – en selvstændig konsulentforretning med fokus på at gøre bæredygtighed konkret, anvendelig og værdiskabende for virksomheder.
+– en selvstændig konsulentforretning med fokus på at gøre bæredygtighed konkret, anvendelig og værdiskabende for virksomheder.
 
 Mie arbejder tæt sammen med ledelse og nøglemedarbejdere for at omsætte bæredygtighed, ESG og klimadata til praksis, der giver mening både for forretningen og organisationen.
 
@@ -47,7 +47,6 @@ Sustira er WelcomeSecuritys bæredygtighedsben og fokuserer på at hjælpe virks
 - at undgå unødigt bureaukrati
 - at skabe reel forretningsværdi
 
-Læs mere om Sustira på: **[https://sustira.dk/](https://sustira.dk/){: target="_blank" rel="noopener noreferrer"}**
 
 
 

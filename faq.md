@@ -1,7 +1,7 @@
 ---
-title: "Ofte stillede spørgsmål om WelcomeSecurity"
+title: "Ofte stillede spørgsmål om Sustira"
 layout: page
-description: "Svar på ofte stillede spørgsmål om WelcomeSecurity, Security Sidekick, Security Champions og sikker softwareudvikling i Danmark."
+description: "Svar på ofte stillede spørgsmål om Sustira, ESG rapportering, LCA og bæredygtighed i praksis"
 permalink: "/faq/"
 sitemap: true
 ---
@@ -13,18 +13,18 @@ sitemap: true
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Hvem er WelcomeSecurity?",
+      "name": "Hvem er Sustira?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "WelcomeSecurity er en dansk sikkerhedsrådgivning baseret i Silkeborg, der hjælper udviklere og DevOps-teams med at bygge sikker software. Virksomheden drives af Thomas L. Kristensen og fungerer som en Security Sidekick – en integreret samarbejdspartner frem for en traditionel konsulent."
+        "text": "Sustira er en dansk bæredygtighedsrådgivning baseret i Silkeborg, der hjælper SVM'er med at gøre bæredygtighed konkret og styrbart. Virksomheden drives af Mie L. Kristensen."
       }
     },
     {
       "@type": "Question",
-      "name": "Hvad er en Security Sidekick?",
+      "name": "Hvad er en ESG rapport?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "En Security Sidekick er en løbende, fleksibel og udviklernær AppSec-partner. I modsætning til traditionelle konsulenter, der afleverer rapporter og forsvinder, arbejder en Security Sidekick tæt sammen med udviklerne i hverdagen – i stand-ups, code reviews og arkitektur-sparring."
+        "text": "En ESG-rapport er jeres samlede overblik og dokumentation af, hvordan virksomheden arbejder med miljø (E), medarbejdere (S) og virksomhedsledelse (G) – og hvordan det hænger sammen med strategi, drift og risici."
       }
     },
     {

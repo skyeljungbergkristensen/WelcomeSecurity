@@ -1,25 +1,25 @@
 #baseurl: ''
 baseurl: ""
 permalink: pretty
-title: 'WelcomeSecurity - Security Sidekick til dine udviklere'
+title: 'Sustira - ESG og bæredygtighed for virksomheder'
 description: >
-  WelcomeSecurity hjælper udviklere, DevOps-teams og Security Champions med at bygge
-  sikker og robust software hurtigere. Vi er jeres Security Sidekick - med secure coding,
-  bedre udviklingsprocesser, threat modeling og praktisk sikkerhedssparring tæt på hverdagen.
-author: 'WelcomeSecurity'
+  Sustira hjælper virksomheder med ESG-rapportering, CO₂-kortlægning og LCA (livscyklusvurdering).
+  Vi gør bæredygtighed overskueligt og anvendeligt - fra data til handling, så I kan træffe
+  bedre beslutninger, styrke troværdigheden og drive cirkulær økonomi i praksis.
+author: 'Sustira'
 keywords: >
-  Security Sidekick, Security Champions, secure software development, sikker softwareudvikling,
-  application security, applikationssikkerhed, secure coding, secure SDLC, DevSecOps,
-  developer enablement, softwarekvalitet, sikkerhedscoaching, secure code review,
-  trusselsmodellering, sikkerhedsarkitektur, risikostyring, Silkeborg, Jylland, Danmark
+  ESG, ESG-rapportering, bæredygtighed, LCA, livscyklusvurdering, CO₂-kortlægning,
+  klimaregnskab, scope 1, scope 2, scope 3, cirkulær økonomi, miljøpåvirkning,
+  bæredygtig udvikling, grøn omstilling, CSR, miljøledelse, produktudvikling,
+  cradle-to-gate, cradle-to-grave, miljøaftryk, Silkeborg, Jylland, Danmark
 
 destination: output
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo-mobile.webp"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/logo.webp"
   desktop_height: "32px"
   desktop_width: "120px"
 
@@ -58,7 +58,7 @@ highlighter: rouge
 markdown: kramdown
 
 # SEO settings
-url: "https://www.welcomesecurity.net"
+url: "https://www.sustira.dk"
 lang: da-DK
 
 # Explicitly include dotfiles for security headers and well-known

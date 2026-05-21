@@ -5,7 +5,7 @@ description: Hvordan WelcomeSecurity behandler personoplysninger
 permalink: "/privatlivspolitik/"
 ---
 
-## Privatliv hos WelcomeSecurity
+## Privatliv hos WelcomeSecurity -herunder Sustira
 
 Der bliver indsamlet alt for meget data om os alle – ofte uden reel kontrol. 
 

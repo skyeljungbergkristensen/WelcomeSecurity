@@ -1,16 +1,12 @@
-# WelcomeSecurity
+# Sustira
 
-> Danish application security consultancy based in Silkeborg, Denmark. We help developers and DevOps teams build secure software through hands-on collaboration, not just reports. Founded by Thomas L. Kristensen.
-
-## What We Do
-
-WelcomeSecurity acts as a "Security Sidekick" - an integrated, developer-friendly AppSec partner that works alongside development teams in their daily work. We participate in stand-ups, code reviews, architecture discussions, and help developers make better security decisions without slowing them down.
+> Danish sustainablity consultancy based in Silkeborg, Denmark. We help small and medium sized companies understand and implement sustainable initiatives through work with ESG and LCA reports. Founded by Mie L. Kristensen.
 
 ## Core Services
 
-- **Security Sidekick**: Ongoing, flexible application security partnership embedded in your development process
-- **Security Champions Program**: Build and train internal security advocates in your development teams
-- **Secure Development Training**: From 2-hour demos to 10 ECTS university modules (IDA Learning, EADania, SmartLearning)
+- **ESG reports**: Oversight and documentation for your sustainable practices
+- **LCA calculations**: Calculations to ease decisionmaking
+- **Science based target initiative**: From 2-hour demos to 10 ECTS university modules (IDA Learning, EADania, SmartLearning)
 - **Threat Modeling & Risk Assessment**: Practical security analysis for features, services, and architectures
 - **Compliance Support**: IEC 62443, ISO 27001, GDPR - implemented in practice, not just on paper
 
@@ -28,15 +24,14 @@ Active in OWASP Aarhus, BSides Aarhus, DevOps Meetup Aarhus, .NET Meetup Aarhus,
 
 ## Key Pages
 
-- [About WelcomeSecurity](https://www.welcomesecurity.net/om-os/): Mission, values, and principles
-- [Security Sidekick Service](https://www.welcomesecurity.net/vi-tilbyder/security-sidekick/): Our core offering
-- [Security Champions](https://www.welcomesecurity.net/vi-tilbyder/security-champions/): Building internal security capability
-- [Training](https://www.welcomesecurity.net/vi-tilbyder/undervisning/): Courses and workshops
-- [References](https://www.welcomesecurity.net/superhelte/): Case studies and experience
-- [Contact](https://www.welcomesecurity.net/kontakt/): Book a conversation
-- [FAQ](https://www.welcomesecurity.net/faq/): Frequently asked questions
+- [About Sustira](https://www.sustira.dk/om-os/): Mission, values, and principles
+- [ESG reports](https://www.sustira.dk/vi-tilbyder/ESG/): Our core offering
+- [LCA calculations](https://www.sustira.dk/vi-tilbyder/Produktaftryk/): Calculations to ease decisionmaking
+- [References](https://www.sustira.dk/Cases/): Case studies and experience
+- [Contact](https://www.sustira.dk/kontakt/): Book a conversation
+- [FAQ](https://www.sustira.dk/faq/): Frequently asked questions
 
 ## Contact
 
-- Website: https://www.welcomesecurity.net
-- Email: thomas@welcomesecurity.net
+- Website: https://www.sustira.dk
+- Email: info@Sustira.dk

@@ -1,21 +1,28 @@
 ---
-title: Sådan hjælper vi jer
+title: Sådan skaber jeg værdi
 layout: services
-description: WelcomeSecurity tilbyder praktisk it-sikkerhed, der hjælper udviklere med at bygge sikker software uden at bremse tempoet
-intro_image: "images/illustrations/racecar.webp"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
-intro_image_caption: "Høj hastighed kræver stærke bremser – og stærk sikkerhed"
-header: It-sikkerhed der hjælper – ikke bremser
+description: Sustira tilbyder ESG og LCA beregninger så i kan udvikle jer i en bæredygtig retning
+header: Fra data til handling
 permalink: "/vi-tilbyder/"
 ---
+### ESG, der kan bruges – og som styrker banken, kunderne og organisationen
 
-Udviklere skal levere hurtigere, sikkerhed skal være bedre, og der er aldrig nok tid eller ressourcer, så der hyres eksterne konsulenter ind, som kritiserer jeres løsning, jeres processer og jeres udviklere, men reelt leverer det ikke andet end rapporter, som I ikke kan forstå.
+Jeg gør ESG overskueligt og anvendeligt, så det bliver et styringsværktøj frem for en rapporteringsøvelse. I får et samlet overblik over E, S og G med klare afgrænsninger, relevant datagrundlag og en prioritering, der kan mærkes i praksis. Det giver bedre beslutninger, styrker troværdigheden over for kunder og samarbejdspartnere – og gør dialogen med bank/investorer mere robust.
 
-WelcomeSecurity arbejder anderledes. Vi hjælper **udviklere, DevOps-teams og Security Champions** med at bygge sikker software som en naturlig del af arbejdet – ikke som en barriere.
+### CO₂-kortlægning, der gør data til retning
 
-Vores tilgang er praktisk, udviklernær og hands-on. Vi vil ikke skrive rapporter, I aldrig får læst. Vi vil arbejde side om side med jeres teams og skabe konkrete resultater.
+Jeg indsamler og strukturerer de rigtige data (energi, transport, indkøb m.m.), så I får et klimaregnskab, I kan styre efter. Værdien er et klart overblik over scope 1, 2 og 3, så I kan prioritere indsatser, dokumentere fremskridt og undgå at bruge kræfter på det, der ikke flytter nok.
 
-Om I har brug for en fast sparringspartner, sikkerhedsundervisning eller hjælp til at bygge en bedre sikkerhedskultur – vi skræddersyer løsningen til jeres behov.
+### LCA, der viser hvor I får mest effekt for indsatsen
 
-Men I kan evt. finde inspiration her:
+Med LCA (livscyklusvurdering) får I et faktabaseret billede af, hvor påvirkningen reelt ligger i produktets livscyklus – og dermed hvor forbedringer giver størst effekt. I kan bruge det til produktudvikling, materialevalg og dokumentation til kunder. Jeg tilbyder både screening LCA (hurtig beslutningsstøtte) og mere detaljeret LCA (robust og dokumentationsklar) – altid med en gennemskuelig proces og konkrete forbedringsforslag.
+
+### Cirkulær økonomi, der kan implementeres – og som styrker bundlinjen
+
+Jeg hjælper jer med at omsætte cirkulære ambitioner til løsninger, der fungerer i jeres virkelighed: take-back, længere levetid, materialeskift og service-/leasingmodeller. Værdien er mindre ressourcespild, mere robuste leverancer og ofte nye indtjeningsmuligheder – forankret via workshops og praktiske næste skridt.
+
+### Forankring og kompetenceløft, så I kan drive arbejdet videre selv
+
+Jeg bygger ikke afhængighed, jeg bygger kapacitet. I får klare roller, simple metoder og en proces, der gør det muligt at omsætte data til beslutninger i hverdagen. Værdien er ejerskab, momentum og en bæredygtighedsindsats, der bliver integreret i kerneforretningen.
+
+Læs mere her
