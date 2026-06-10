@@ -1,5 +1,5 @@
 ---
-title: "ESG Rapporter"
+title: "ESG og bæredygtigheds rapportering"
 weight: 1
 description: |
   ##### Få overblik og dokumentation for jeres bæredygtige tiltag.
@@ -10,180 +10,49 @@ description: |
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
-intro_image: "/images/illustrations/ESG billede.webp"
+intro_image: "/images/illustrations/Tretrinsraketten.png"
 permalink: "/vi-tilbyder/ESG/"
 ---
+Få overblik og dokumentation for jeres bæredygtighedsarbejde
 
----
-En ESG-rapport hjælper jer med at:
+En ESG-rapport er ikke et mål i sig selv.
+Den skal hjælpe jer med at forstå virksomhedens påvirkninger, prioritere de vigtigste indsatser og dokumentere arbejdet overfor kunder, banker og samarbejdspartnere.
 
-- få struktur på krav fra kunder, banker, ejere og evt. lovgivning
-- skabe overblik over data, indsatser, risici og muligheder i jeres værdikæde
-- vælge de indsatser, der giver størst effekt – og kunne dokumentere dem
+ESG handler om klima og miljø (Environment), sociale forhold (Social) og virksomhedsledelse (Governance). Det handler grundlæggende om at besvare tre spørgsmål:
+- Hvordan påvirker virksomheden omgivelserne?
+- Hvilke forhold kan påvirke virksomheden?
+- Hvor giver det mest mening at sætte ind?
 
-En ESG-rapport kan indeholde forskellige elementer. Den simple rapport er selvfølgelig den, det er lettest at komme i gang med, omvendt er den mest omfattende den, der kan bruges til mest i forhold til reduktioner, strategi og markedsføring. Hvis vi starter med den simple, kan vi stille og roligt bygge på og udvide med flere elementer i forhold til hvad der passer til din virksomhed.
+### Hvad får I ud af en ESG-rapport?
+En ESG-rapport giver jer et samlet overblik over virksomhedens væsentligste bæredygtighedsforhold og skaber struktur på data, indsatser og mål.
 
----
+Rapporten kan bruges til at dokumentere jeres arbejde overfor kunder, banker og samarbejdspartnere. Samtidig giver den et bedre grundlag for beslutninger og prioriteringer internt i virksomheden.
+For mange virksomheder bliver ESG-rapporten også udgangspunktet for konkrete reduktionsplaner, forbedringsinitiativer og en mere systematisk tilgang til bæredygtighed.
 
-### Hvad skal du vælge?
+### ESG og ledelsessystemer
+ESG ikke kun et spørgsmål om rapportering. Det handler også om at skabe struktur, ansvar og løbende forbedringer. Mange af de aktiviteter, der indgår i arbejdet med ESG-rapporten, understøtter samtidig arbejdet med **ISO 14001** (miljøledelse) og **ISO 45001** (arbejdsmiljøledelse). Det gælder blandt andet kortlægning af påvirkninger, fastsættelse af mål, handlingsplaner, opfølgning og løbende forbedringer.
+For virksomheder, der allerede arbejder med ISO-standarder, kan ESG-rapporteringen integreres i de eksisterende processer. For virksomheder, der endnu ikke har et ledelsessystem, kan ESG-arbejdet være et naturligt første skridt mod en mere systematisk tilgang til miljø, arbejdsmiljø og bæredygtighed.
+Når ESG og ledelsessystemer tænkes sammen, undgår virksomheden dobbeltarbejde og får i stedet én samlet arbejdsform, hvor strategi, data, forbedringsarbejde og dokumentation understøtter hinanden.
 
-Sustira tilbyder tre forskellige pakker alt efter jeres behov
+Målet er ikke flere dokumenter. Målet er at skabe en virksomhed, der arbejder systematisk med forbedringer og kan omsætte ambitioner til handling i hverdagen.
+
+### Hvilket niveau passer til jer?
+Virksomheder har forskellige behov og ambitionsniveauer. Derfor tilbyder jeg tre niveauer, som kan udbygges i takt med, at virksomheden bliver mere moden i sit bæredygtighedsarbejde.
 
 **Kom godt i gang**
 
-Til jer der vil have en enkel ESG-rapport med fokus på de væsentligste ESG-nøgletal. Rapporten opbygges efter den frivillige standard -basismodulet.
-
-Vælg ”Kom godt i gang” hvis…
-
-- I vil i gang hurtigt og få styr på de vigtigste nøgletal
-- I har behov for enkel dokumentation til kunder/bank, uden et større strategiforløb
-
-Indhold
-
-- Energiforbrug, vandforbrug og affaldshåndtering
-- Kørsel og rejseaktivitet
-- Sammensætning af arbejdsstyrke og uddannelsestimer
-
----
+Til virksomheder der ønsker en enkel ESG-rapport med fokus på de vigtigste nøgletal og grundlæggende dokumentation.
 
 **Retning og reduktion**
 
-Til jer der vil have en mere robust rapport og som vil arbejde med reduktion af energi- og materialeforbrug. Rapporten opbygges efter den frivillige standard -basismodulet og suppleres med principper og reduktionsplaner
+Til virksomheder der ønsker at kombinere rapportering med konkrete mål, prioriteringer og forbedringsplaner.
 
-Vælg ”Retning og reduktion” hvis…
+**Klima og værdikæde**
 
-- I vil kombinere rapportering med retning og handling
-- I vil arbejde konkret med reduktion af energi- og materialeforbrug
+Til virksomheder der ønsker indsigt i hele værdikæden, herunder indkøb, leverandører, klimarisici, reduktionsmål og klimaaftryk relateret til værdikæden. 
 
-Indhold
-
-- Alt fra ”Kom godt i gang”
-- Principper for miljø, medarbejdere og virksomhedsledelse
-- Væsentlighedsprioritering (fokus på det, der betyder mest for jer og jeres interessenter)
-- Reduktionsplaner
-
----
-
-**Klima og Værdikæde**
-
-Til jer der vil have den mest dækkende frivillige rapportering. Rapporten opbygges efter den frivillige standards udvidede modul, der som navnet antyder har flere krav til data.
-
-Vælg ”Klima og Værdikæde” hvis…
-
-- I vil have et større indblik i hvor jeres udledninger er (f.eks. alt indkøb)
-- I møder skærpede krav fra større kunder/koncerner
-- I vil have fokus på reduktionsmål, klimaomstilling og klimarisici
-
-- Vil arbejde med bæredygtighed i jeres værdikæde
-
-Typisk indhold
-
-- Alt fra de foregående
-
-- Klimaaftryk relateret til indkøb (Scope 3 beregninger)
-
-- Flere data om ansatte og ledelse
-
-- Reduktionsmål, klimaomstilling og klimarisici
-
----
-
-### Sådan laver jeg en ESG-rapport
-
-Jeg arbejder i en klar og gennemskuelig proces.
-
-**Kickoff – opstart og afklaring** (alle)
-
-Formål: Afstemme formål og ambitionsniveau: hvad skal ESG-rapporten bruges til, hvem er målgruppen, og hvilke krav skal den kunne opfylde.
-
-Det sker typisk her:
-
-- afklaring af scope (periode, enheder, lokationer)
-- gennemgang af data, I allerede har, og hvad vi mangler
-- plan for involvering og deadlines
-
-**Mål og afgrænsning** (alle)
-
-Formål: Definere præcist hvad der rapporteres på, og hvordan, så resultatet bliver konsistent og troværdigt.
-
-Vi fastlægger bl.a.:
-
-- hvilke nøgletal/temaer der indgår
-
-- datakilder, antagelser og datakvalitet (målt vs. estimeret)
-
-- hvordan vi dokumenterer metode og afgrænsninger
-
-**Status og principper** (ikke med i "Kom godt i gang")
-
-Formål: Beskrive hvordan I arbejder med miljø, medarbejdere og virksomhedsledelse – samt skabe et tydeligt udgangspunkt for prioritering og handling.
-
-Det arbejder vi med:
-
-- principper/politikker for miljø, medarbejdere og virksomhedsledelse
-
-- status på eksisterende tiltag og ansvar
-
-**Dataindsamling** -det er her forskellen bliver tydelig
-
-Formål: Samle de data, der driver rapportens nøgletal og konklusioner.
-
-Vi indsamler data om:
-
-- energiforbrug, vandforbrug og affaldshåndtering
-
-- kørsel og rejseaktivitet
-
-- arbejdsstyrkesammensætning og uddannelsestimer
-
-Derudover i ”**Retning og reduktion**” og ”**Klima og værdikæde**”
-
-- ekstra data der understøtter jeres strategi og principper for at drive virksomheden
-
-Derudover kun i ”**Klima og værdikæde**”
-
-- indkøbsdata
-
-- leverandørdata
-
-- person og varetransport
-
-**Prioritering og planer** (ikke med i "Kom godt i gang")
-
-Formål: Få fokus på det, der betyder mest og undgå at rapporten bliver “alt om alt”, samt at omsætte mål til konkrete planer
-
-- 1–2 workshops/interviews, hvor vi prioriterer de vigtigste ESG-emner for jer og jeres interessenter.
-
-- Reduktionsplaner for energi- og materialeforbrug
-
-Kun i ”**Klima og værdikæde**”
-
-- klimaomstilling samt identifikation af relevante klimarisici
-
-**Rapport og kvalitetssikring**
-
-Formål: Sikre at rapporten bliver forståelig, troværdig og nem at bruge.
-
-Jeg leverer typisk:
-
-- ESG-rapport
-
-- tydelige afgrænsninger, antagelser og datagrundlag
-
-- 1–2 reviewrunder før endelig levering
-
----
-
-**Tidsforbrug**
-
-Det, der typisk bestemmer tidsforbruget, er datamængde og datatilgængelighed (materialelister, energiforbrug og leverandørdata). Vi starter derfor altid med en kort opstart, hvor I får en dataskabelon. Jo bedre I har styr på jeres data jo hurtigere kan jeg levere og jo højere kvalitet får resultatet.
-
-Følgende tal skal derfor betragtes som et bedste bud
-
-| Tilbud | Jeres tid | Min tid |
-| ------------------------ | ----------- | ------------ |
-| **Kom godt i gang** | 1-5 timer | 5-15 timer |
-| **Retning og reduktion** | 15-35 timer | 30-60 timer |
-| **Klima og værdikæde** | 18-40 timer | 50-100 timer |
+### En proces der passer til hverdagen
+Tidsforbruget afhænger primært af virksomhedens størrelse, datatilgængelighed og ambitionsniveau.
+Mange mindre virksomheder kan komme i gang med en ESG-rapport med et begrænset tidsforbrug fra organisationen. Min rolle er at gøre processen så enkel og effektiv som muligt. Vi starter derfor altid med en kort afklaringssamtale, hvor vi gennemgår formål, datagrundlag og forventninger. På den baggrund får I et konkret tilbud og en realistisk tidsplan.
 
 <a href="{{ '/kontakt/' | relative_url }}" class="button button-primary">Book en uforpligtende snak</a>

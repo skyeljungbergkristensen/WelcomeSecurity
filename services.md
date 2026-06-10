@@ -2,6 +2,7 @@
 title: Sådan skaber jeg værdi
 layout: services
 description: Sustira tilbyder ESG og LCA beregninger så i kan udvikle jer i en bæredygtig retning
+banner_image: "/images/illustrations/Services.png"
 header: Fra data til handling
 permalink: "/vi-tilbyder/"
 ---

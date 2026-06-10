@@ -20,15 +20,6 @@ Det er god fornuft, god forretning og godt for fremtiden.
 - Tiltrækning og fastholdelse: Flere, især unge, vælger arbejdspladser med tydelige værdier.
 
 ---
-
-## Hvem tager samtalen?
-
-Samtalen foregår direkte med mig.
-
-Jeg arbejder tæt sammen med udviklere, DevOps-teams og ledelse og har stor erfaring med at omsætte it-sikkerhed til noget, der fungerer i praksis – både teknisk, organisatorisk og menneskeligt.
-
----
-
 ## Så tag det næste skridt
 
 Hvis I vil udvikle jer bæredygtigt på både den klimamæssige, økonomiske og sociale front…

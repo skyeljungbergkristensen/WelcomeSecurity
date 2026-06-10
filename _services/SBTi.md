@@ -1,29 +1,42 @@
 ---
-title: "SBTi"
+title: "Ledelsessystemerne ISO 14001 & ISO 45001"
 weight: 4
 description: |
-  ##### Science Based Target initiative
-  Når I har styr på jeres klimaregnskab, er SBTi (Science Based Targets initiative) det næste skridt.
+  Ledelsessystemer der virker i praksis
+  ISO 14001 og ISO 45001 handler ikke om dokumentation og procedurer. De handler om at skabe struktur, ansvar og løbende forbedringer, så virksomheden arbejder systematisk med miljø, arbejdsmiljø og risici. 
 
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
 
-permalink: "/vi-tilbyder/SBTi/"
+permalink: "/vi-tilbyder/ISO/"
 
 ---
-SBTi
+Ledelsessystemer der virker i praksis
 
-SBTi er en videnskabsbaseret reduktionsplan, der viser, hvordan I sænker jeres udledninger i tråd
-med Parisaftalens ambition – altså CO₂-reduktionsmål, der matcher det, der skal til globalt for at
-begrænse temperaturstigningerne.
+ISO 14001 og ISO 45001 handler ikke om dokumentation og procedurer. De handler om at skabe struktur, ansvar og løbende forbedringer, så virksomheden arbejder systematisk med miljø, arbejdsmiljø og risici. Et velfungerende ledelsessystem gør det lettere at omsætte ambitioner til handling, følge op på resultater og sikre, at forbedringer bliver en del af den daglige drift.
 
-Det er en anerkendt ramme, som kunder og samarbejdspartnere forstår – og som gør jeres ESG-
-arbejde mere troværdigt. De fleste SMV’er kan samtidig bruge SBTi’s forenklede SME-vej, som er
-mindre omfattende end den fulde corporate-proces.
+ISO 14001 giver en struktureret ramme for arbejdet med miljøforhold, ressourceforbrug og virksomhedens påvirkning af omgivelserne.
 
-SBTi er derfor ofte “skridtet efter klimaregnskabet”, fordi det omsætter tal til handling og en konkret
-reduktionsplan.
+ISO 45001 giver en tilsvarende ramme for arbejdsmiljø, trivsel og forebyggelse af ulykker og skader.
 
-Kort sagt: SBTi er måden at fortælle omverdenen, at I arbejder systematisk og seriøst med den
-grønne omstilling – med en plan, der kan holde til spørgsmål.
+Fælles for begge standarder er, at de hjælper virksomheden med at identificere væsentlige forhold, sætte mål, planlægge indsatser og arbejde systematisk med løbende forbedringer.
+
+### Sådan kan jeg hjælpe
+Jeg hjælper virksomheder med at omsætte kravene i ISO 14001 og ISO 45001 til praktiske arbejdsgange, der skaber værdi i hverdagen.
+
+Sammen identificerer vi de væsentligste miljø- og arbejdsmiljøforhold, vurderer risici og muligheder og omsætter dem til konkrete handlingsplaner. Målet er at skabe et systematisk grundlag for forbedringer frem for ekstra administration.
+
+Gennem workshops og kompetenceudvikling hjælper jeg ledelse og medarbejdere med at forstå deres rolle i arbejdet, så ansvaret ikke placeres hos én person, men bliver forankret i organisationen.
+
+### Sammenhæng mellem ESG, klima og ISO
+Mange virksomheder oplever ESG, klimaarbejde og ledelsessystemer som separate projekter. I praksis hænger de tæt sammen. Kortlægning af miljøpåvirkninger, klimadata, målsætninger, handlingsplaner og opfølgning indgår ofte både i ESG-rapportering og i arbejdet med ISO 14001 og ISO 45001. Når disse aktiviteter tænkes sammen, undgår virksomheden dobbeltarbejde og får i stedet én samlet arbejdsform, hvor strategi, data, forbedringsarbejde og dokumentation understøtter hinanden.
+
+### Fra system til kultur
+Et ledelsessystem skaber først værdi, når det bliver en naturlig del af virksomhedens hverdag. Derfor arbejder jeg med forankring, ejerskab og klare roller, så systemet passer til virksomhedens størrelse, kultur og ressourcer.
+
+Mit fokus er ikke certificeringen alene. Mit fokus er at skabe en arbejdsform, der understøtter virksomhedens udvikling og gør det lettere at arbejde systematisk med forbedringer. Et ledelsessystem skal gøre arbejdet lettere, ikke tungere.
+
+Er det noget for jer?
+
+**[Book en uforpligtende snak]({{ '/kontakt/' | relative_url }}){: .button .button-primary}**

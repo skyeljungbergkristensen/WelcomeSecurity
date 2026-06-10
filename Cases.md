@@ -14,7 +14,7 @@ Her finder du eksempler på organisationer og teams, hvor Mie Ljungberg Kristens
 
 #### Cases
 
-### Scan Underlay: Fra ambition til implementeret ESG- og miljøstrategi**
+### Scan Underlay: Fra ambition til implementeret ESG- og miljøstrategi
 Underlay udvikler og producerer danske, trinlydsdæmpende underlag af upcycled gummi fra brugte bildæk med dokumenteret miljøprofil via EPD. De ønskede at styrke deres ESG- og miljøindsats og få en klar, praktisk struktur for arbejdet. 
 Jeg blev tilknyttet som ansvarlig for implementeringen af ESG- og miljøstrategien og arbejdede med at gøre komplekse krav og data
 
