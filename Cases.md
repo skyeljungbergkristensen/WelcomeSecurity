@@ -3,7 +3,7 @@ layout: page
 title: "Cases"
 permalink: "/cases/"
 description: "Eksempler på organisationer og teams, hvor Mie Ljungberg Kristensen har bidraget til bæredygtig udvikling."
-intro_image: "images/illustrations/superhelte.webp"
+intro_image:
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
@@ -11,9 +11,6 @@ intro_image_hide_on_mobile: false
 Her finder du eksempler på organisationer og teams, hvor Mie Ljungberg Kristensen med stor ekspertise har formidlet, rådgivet og bidraget til bæredygtig udvikling.
 
 ---
-
-#### Cases
-
 ### Scan Underlay: Fra ambition til implementeret ESG- og miljøstrategi
 Underlay udvikler og producerer danske, trinlydsdæmpende underlag af upcycled gummi fra brugte bildæk med dokumenteret miljøprofil via EPD. De ønskede at styrke deres ESG- og miljøindsats og få en klar, praktisk struktur for arbejdet. 
 Jeg blev tilknyttet som ansvarlig for implementeringen af ESG- og miljøstrategien og arbejdede med at gøre komplekse krav og data

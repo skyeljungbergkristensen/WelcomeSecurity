@@ -19,6 +19,7 @@ Derfor hjælper jeg virksomheder med at:
 - prioritere de indsatser, der giver størst effekt
 - forankre arbejdet i organisationen
 
+---
 Sustira er til jer, der ønsker struktur uden bureaukrati og handling uden varm luft. Jeg hjælper virksomheder, der ønsker at reducere deres klima- og miljøpåvirkning gennem ESG, klimaregnskaber eller cirkulær økonomi.
 Kan du genkende dette?
 - I vil gerne i gang, men mangler overblik over hvor I skal starte.

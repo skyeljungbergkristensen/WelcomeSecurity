@@ -10,7 +10,7 @@ description: |
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
-intro_image: "/images/illustrations/Tretrinsraketten.png"
+intro_image: "/images/illustrations/ESG billede.webp"
 permalink: "/vi-tilbyder/ESG/"
 ---
 Få overblik og dokumentation for jeres bæredygtighedsarbejde
@@ -30,7 +30,7 @@ Rapporten kan bruges til at dokumentere jeres arbejde overfor kunder, banker og 
 For mange virksomheder bliver ESG-rapporten også udgangspunktet for konkrete reduktionsplaner, forbedringsinitiativer og en mere systematisk tilgang til bæredygtighed.
 
 ### ESG og ledelsessystemer
-ESG ikke kun et spørgsmål om rapportering. Det handler også om at skabe struktur, ansvar og løbende forbedringer. Mange af de aktiviteter, der indgår i arbejdet med ESG-rapporten, understøtter samtidig arbejdet med **ISO 14001** (miljøledelse) og **ISO 45001** (arbejdsmiljøledelse). Det gælder blandt andet kortlægning af påvirkninger, fastsættelse af mål, handlingsplaner, opfølgning og løbende forbedringer.
+ESG ikke kun et spørgsmål om rapportering. Det handler også om at skabe struktur, ansvar og løbende forbedringer. Mange af de aktiviteter, der indgår i arbejdet med ESG-rapporten, understøtter samtidig arbejdet med [**ISO 14001**]({{ '/vi-tilbyder/ISO/' | relative_url }}) (miljøledelse) og [**ISO 45001**]({{ '/vi-tilbyder/ISO/' | relative_url }}) (arbejdsmiljøledelse). Det gælder blandt andet kortlægning af påvirkninger, fastsættelse af mål, handlingsplaner, opfølgning og løbende forbedringer.
 For virksomheder, der allerede arbejder med ISO-standarder, kan ESG-rapporteringen integreres i de eksisterende processer. For virksomheder, der endnu ikke har et ledelsessystem, kan ESG-arbejdet være et naturligt første skridt mod en mere systematisk tilgang til miljø, arbejdsmiljø og bæredygtighed.
 Når ESG og ledelsessystemer tænkes sammen, undgår virksomheden dobbeltarbejde og får i stedet én samlet arbejdsform, hvor strategi, data, forbedringsarbejde og dokumentation understøtter hinanden.
 

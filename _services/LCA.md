@@ -8,14 +8,12 @@ banner_image: "/images/illustrations/banner.webp"
 intro_image: 
 permalink: "/vi-tilbyder/Produktaftryk/"
 ---
-## Beregninger der gør beslutninger lettere
 Gode beslutninger kræver et solidt datagrundlag.
 
 Jeg hjælper virksomheder med at kortlægge deres klimaaftryk og produkters miljøpåvirkning gennem klimaregnskaber og livscyklusvurderinger (LCA), så det bliver tydeligt, hvor de største påvirkninger findes, og hvor indsatsen giver størst effekt. Når påvirkningerne bliver synlige, bliver det lettere at prioritere investeringer og udvikle produkter og løsninger med lavere miljøpåvirkning. Samtidig bliver det lettere at dokumentere forbedringer
 
 ## Klimaregnskab
 Et klimaregnskab giver overblik over virksomhedens samlede udledninger og synliggør, hvor de største påvirkninger findes i virksomhedens aktiviteter og værdikæde.
-
 Det skaber et datagrundlag for at prioritere indsatser, sætte mål og dokumentere fremskridt overfor kunder, samarbejdspartnere og andre interessenter. 
 
 ## Produktaftryk og LCA

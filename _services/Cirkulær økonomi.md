@@ -6,7 +6,7 @@ description: |
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
-intro_image: "/images/illustrations/cirkulær økonomi.png"
+intro_image:
 permalink: "/vi-tilbyder/Cirkulær økonomi/"
 ---
 Cirkulær økonomi der styrker forretningen
